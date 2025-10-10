@@ -1,0 +1,32 @@
+Les principaux objectifs du versioning
+
+Historique complet :
+Tu peux consulter toutes les modifications passées, qui les a faites, quand et pourquoi.
+
+Collaboration :
+Plusieurs développeurs peuvent travailler en même temps sur différentes parties du projet.
+
+Sauvegarde et restauration :
+Si une version du projet cause un problème, tu peux revenir à une version stable.
+
+Branchement (branches) :
+Tu peux créer des verExemple concret avec Git
+
+Prenons un projet géré avec Git.
+
+Commit : une version sauvegardée du projet.
+(Chaque commit correspond à un « point dans le temps » avec un message décrivant les changements.)
+
+Branche (branch) : une ligne de développement indépendante.
+Exemple :
+
+main → version stable
+
+dev → version de développement
+
+feature-x → version où tu testes une nouvelle fonctionnalité
+
+Merge : fusionner deux branches pour réunir leurs modifications.
+
+Tag : marquer une version importante (ex : v1.0, v2.1.3)
+→ souvent utilisé pour les releases (versions publiques).
