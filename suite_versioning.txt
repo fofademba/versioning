@@ -30,3 +30,7 @@ Merge : fusionner deux branches pour réunir leurs modifications.
 
 Tag : marquer une version importante (ex : v1.0, v2.1.3)
 → souvent utilisé pour les releases (versions publiques).
+
+Avant de contribuer à un projet forké, il faut d’abord adapter ou corriger les fichiers nécessaires pour que le fork fonctionne correctement, puis soumettre les modifications via un commit ou une pull request.
+
+
