@@ -1,0 +1,1 @@
+Après avoir corrigé les fichiers pour rendre le fork fonctionnel, on peut valider les changements avec un commit et les proposer via une pull request.
